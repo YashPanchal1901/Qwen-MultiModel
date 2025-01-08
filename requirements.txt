@@ -1,0 +1,6 @@
+easyocr
+streamlit
+transformers
+pillow
+torch
+accelerate
